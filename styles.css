@@ -29,6 +29,10 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 .leftside {
     position: absolute;
     z-index: -2;
