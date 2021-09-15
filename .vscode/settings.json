@@ -1,4 +1,3 @@
 {
-    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter",
-    "editor.formatOnSave": true
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
 }
