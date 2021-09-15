@@ -1,8 +1,6 @@
 /* 
-
 TODO: Remove absolute positions
 TODO: Fix the site
-
 */
 
 .green {
@@ -42,6 +40,7 @@ a {
 }
 
 .leftimg {
+    object-fit: cover;
     -webkit-user-drag: none;
     position: absolute;
     z-index: 2;
@@ -133,7 +132,6 @@ a {
 }
 
 .thin {
-    font-weight: 400;
     font-size: 2vh;
 }
 
